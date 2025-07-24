@@ -7,6 +7,7 @@ Este proyecto es una galería interactiva de productos para una ferretería, con
 
 ```
 ferreteria/
+├── imgs/               # Imagenes utlizadas
 ├── galeria.html        # Página principal de la galería
 ├── productos.json      # Datos de productos (nombre, imagen, categoría, etc.)
 ├── scripts.js          # Lógica JS para cargar y filtrar productos
